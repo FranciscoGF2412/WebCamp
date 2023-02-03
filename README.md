@@ -5,8 +5,8 @@ Este es un portafolio creado con HTML y CSS
 ## Autor -
 **Francisco Garcia**
 
-*[LinkedIn] (www.linkedin.com/in/franciscogf2412)
-*[Portafolio web] (www.linkedin.com/in/franciscogf2412)
+*[LinkedIn](www.linkedin.com/in/franciscogf2412)
+*[Portafolio web](www.linkedin.com/in/franciscogf2412)
 
 ## Instalación
 Este proyecto no necesita de insalacion, simplemente abre la carpeta o haz doble click en el .html
